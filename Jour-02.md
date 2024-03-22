@@ -8,9 +8,9 @@ Hachemi
 - [x] Configuration de son environnement de travail
   - [x] Mise à jour OS (Linux, Windows, Mac)
   - [x] Installation (Discord)
-  - [ ] Installation navigateur (Developper Edition)
+  - [x] Installation navigateur (Developper Edition)
   - [x] Création et configuration Mail pro
-  - [ ] Création et configuration Linkedin
+  - [x] Création et configuration Linkedin
   - [x] Installation Linux ou WSL sur Windows
 - [x] Découverte du Terminal :
   - [x] Comprendre la différence entre une interface en ligne de commande et une interface graphique
