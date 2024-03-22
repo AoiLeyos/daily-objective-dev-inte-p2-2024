@@ -9,7 +9,7 @@ Hachemi
   - [x] Mise à jour OS (Linux, Windows, Mac)
   - [x] Installation (Discord)
   - [ ] Installation navigateur (Developper Edition)
-  - [ ] Création et configuration Mail pro
+  - [x] Création et configuration Mail pro
   - [ ] Création et configuration Linkedin
   - [x] Installation Linux ou WSL sur Windows
 - [x] Découverte du Terminal :
