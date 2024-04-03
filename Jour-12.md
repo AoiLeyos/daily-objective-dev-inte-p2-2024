@@ -11,7 +11,7 @@ Benjamin
 - [x] Comprendre l'utilité et le fonctionnement de `git stash`
 - [x] Comprendre et utiliser le `git diff` (quelle utilité)
 - [x] Comprendre la différence entre `git log` et `git show` + les flags principaux
-- [ ] Comprendre et utiliser le `git fetch`
+- [x] Comprendre et utiliser le `git fetch`
 
 ### Setup Workflow Git
 
