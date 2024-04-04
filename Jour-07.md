@@ -14,8 +14,8 @@ Hachemi
 - [x] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
 - [x] Découverte de LazyGit
   - [x] Installation et configuration
-  - [ ] Intégration dans son editeur / workflow
-  - [ ] Faire le tour du propriétaire
+  - [x] Intégration dans son editeur / workflow
+  - [x] Faire le tour du propriétaire
 - [x] `.gitignore` global ou pas ?
 - [x] Comprendre quelle est la différence entre `git pull` et `git fetch`
     - [x] À quoi sert la commande `git fetch —prune`
