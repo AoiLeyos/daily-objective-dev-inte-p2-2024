@@ -6,11 +6,11 @@ Hachemi
 
 ### Brief 
 
-- [ ] Finaliser les wireframes de son brief
+- [x] Finaliser les wireframes de son brief
 
 ### Atelier
 
-- [ ] Préparer l'atelier d'initiation aux prescripteurs
+- [x] Préparer l'atelier d'initiation aux prescripteurs
 
 ### Sass
 
